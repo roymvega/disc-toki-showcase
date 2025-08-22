@@ -35,7 +35,7 @@ Disc-Toki is a cross-platform mobile app that helps users **discover and join Ul
 
 ## 🎥 Demo / App Downloads
 - [Watch Demo Video](https://drive.google.com/file/d/18loQgv-a8lWopfkKCCIfE7G6suswVVX6/view?usp=sharing)
-- [Download Android APK]([https://drive.google.com/your-apk-link](https://drive.google.com/file/d/1TI0Xi-lXAPac6bHLOv1gByu8eAuLMWpG/view?usp=sharing))
+- [Download Android APK](https://drive.google.com/file/d/1TI0Xi-lXAPac6bHLOv1gByu8eAuLMWpG/view?usp=sharing)
 - [Download iOS IPA](https://testflight.apple.com/join/WEXMcD4M)
 
 ## 🧩 My Role & Impact
