@@ -24,12 +24,13 @@ Disc-Toki is a cross-platform mobile app that helps users **discover and join Ul
 
 ## 📸 Screenshots *(mock data for clarity)*
 <p float="left">
-  <a href="screenshots/homescreen.jpg"><img src="screenshots/homescreen.jpg" width="120" /></a>
-  <a href="screenshots/profile.jpg"><img src="screenshots/profile.jpg" width="120" /></a>
-  <a href="screenshots/game-details.jpg"><img src="screenshots/game-details.jpg" width="120" /></a>
-  <a href="screenshots/game-list.jpg"><img src="screenshots/game-list.jpg" width="120" /></a>
+  <a href="screenshots/homescreen.jpg"><img src="screenshots/homescreen.jpg" width="120" style="margin-right:10px" /></a>
+  <a href="screenshots/profile.jpg"><img src="screenshots/profile.jpg" width="120" style="margin-right:10px" /></a>
+  <a href="screenshots/game-details.jpg"><img src="screenshots/game-details.jpg" width="120" style="margin-right:10px" /></a>
+  <a href="screenshots/games-list.jpg"><img src="screenshots/games-list.jpg" width="120" style="margin-right:10px" /></a>
   <a href="screenshots/Hub.jpg"><img src="screenshots/Hub.jpg" width="120" /></a>
 </p>
+
 
 ## 🎥 Demo / App Downloads
 - [Watch Demo Video](https://drive.google.com/your-demo-video-link)  --
